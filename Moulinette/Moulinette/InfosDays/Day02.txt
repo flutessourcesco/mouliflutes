@@ -1,0 +1,16 @@
+00
+ft_print_alphabet
+01
+ft_print_reverse_alphabet
+02
+ft_print_numbers
+03
+ft_is_negative
+04
+ft_print_comb
+05
+ft_print_comb2
+06
+ft_putnbr
+07
+ft_print_combn
