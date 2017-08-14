@@ -9,8 +9,11 @@ Moulinette.sh prend deux paramètres :
 Moulinette.sh est en Bash, il faut donc la lancer avec bash.
 
 ///////
+Exemple day02 : https://github.com/flutessourcesco/tests.git
+//////
 
 Version 1.0 :
+/!\Les exos ne doivent pas contenir de prototypes. Par exemple ft_putchar devra etre une fonction complete et non prototypée. /!\
 Gestion d'erreur non complete.
 Pas de norminette.
 Day02 complet.
