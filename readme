@@ -1,0 +1,16 @@
+cd Moulinette/Moulinette
+bash moulinette.sh http//legit-avec-tous-les-dossiers-sexercices-du-jour jour
+
+///////
+
+Moulinette.sh prend deux paramètres : 
+1 - Le git du day envoyé
+2 - Le numero du day (ex 02)
+Moulinette.sh est en Bash, il faut donc la lancer avec bash.
+
+///////
+
+Version 1.0 :
+Gestion d'erreur non complete.
+Pas de norminette.
+Day02 complet.
